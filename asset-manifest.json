@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HackBVP/HackBVP/static/css/main.3fa6ceb8.chunk.css",
+    "main.js": "/HackBVP/HackBVP/static/js/main.98a86bbf.chunk.js",
+    "main.js.map": "/HackBVP/HackBVP/static/js/main.98a86bbf.chunk.js.map",
+    "runtime-main.js": "/HackBVP/HackBVP/static/js/runtime-main.c0dcf86a.js",
+    "runtime-main.js.map": "/HackBVP/HackBVP/static/js/runtime-main.c0dcf86a.js.map",
+    "static/js/2.c4a71b3c.chunk.js": "/HackBVP/HackBVP/static/js/2.c4a71b3c.chunk.js",
+    "static/js/2.c4a71b3c.chunk.js.map": "/HackBVP/HackBVP/static/js/2.c4a71b3c.chunk.js.map",
+    "static/js/3.d547c2a3.chunk.js": "/HackBVP/HackBVP/static/js/3.d547c2a3.chunk.js",
+    "static/js/3.d547c2a3.chunk.js.map": "/HackBVP/HackBVP/static/js/3.d547c2a3.chunk.js.map",
+    "index.html": "/HackBVP/HackBVP/index.html",
+    "static/css/main.3fa6ceb8.chunk.css.map": "/HackBVP/HackBVP/static/css/main.3fa6ceb8.chunk.css.map",
+    "static/js/2.c4a71b3c.chunk.js.LICENSE.txt": "/HackBVP/HackBVP/static/js/2.c4a71b3c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/HackBVP/HackBVP/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0dcf86a.js",
+    "static/js/2.c4a71b3c.chunk.js",
+    "static/css/main.3fa6ceb8.chunk.css",
+    "static/js/main.98a86bbf.chunk.js"
+  ]
+}
